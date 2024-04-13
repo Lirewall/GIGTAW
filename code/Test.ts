@@ -1,1 +1,3 @@
-console.log("I am alive");
+const number = 5;
+
+console.log(number + 5)
